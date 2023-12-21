@@ -1,0 +1,1 @@
+{"name":"Local: index","url":"d:\\Coding\\C++\\ASearch\\index.cpp","tests":[{"id":1702566619717,"input":"aabacbebebe\n3","output":"7"},{"id":1702568214224,"input":"aaaa\n2","output":"-1"},{"id":1702569290018,"input":"abcba\n2","output":"bcb\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C++\\ASearch\\index.cpp","group":"local","local":true}
