@@ -5,4 +5,4 @@ My Team:
 - Nguyễn Văn Duy
 - Nguyễn Trung Đức
 
-My project is about A* algorithm and compare it to BFS algorithm in find the path in a maze
+My study compares the BFS and A* algorithms for determining the shortest path through a maze.
